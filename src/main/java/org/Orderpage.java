@@ -6,4 +6,9 @@ public class Orderpage {
 
         System.out.println("This is for OrderPage Branch");
     }
+
+    public void ShippingNumber(){
+
+        System.out.println("This is for OrderPage Branch");
+    }
 }
