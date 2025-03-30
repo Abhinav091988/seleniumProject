@@ -1,14 +1,9 @@
 package org;
 
-public class Orderpage {
+public class OrderPage {
 
-    public void orderNumber(){
+    public void OrderMethod(){
 
-        System.out.println("This is for OrderPage Branch");
-    }
-
-    public void ShippingNumber(){
-
-        System.out.println("This is for OrderPage Branch");
+        System.out.println("This is order Page");
     }
 }
